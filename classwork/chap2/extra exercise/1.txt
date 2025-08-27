@@ -1,0 +1,11 @@
+# Store the user's name in a variable
+name = "Eric"
+
+# Print a message with the name in title case (first letter capitalized)
+print(f"Hello {name.title()}, would you like to learn some Python today?")
+
+# Print a message with the name in lowercase
+print(f"Hello {name.lower()}, would you like to learn some Python today?")
+
+# Print a message with the name in uppercase
+print(f"Hello {name.upper()}, would you like to learn some Python today?")
